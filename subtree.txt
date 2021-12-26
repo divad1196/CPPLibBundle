@@ -1,0 +1,7 @@
+git subtree add --squash -P libs/crow https://github.com/CrowCpp/Crow.git master
+git subtree add --squash -P libs/nlohmann https://github.com/nlohmann/json.git master
+git subtree add --squash -P libs/Jinja2Cpp https://github.com/jinja2cpp/Jinja2Cpp.git master
+git subtree add --squash -P libs/CTRE https://github.com/hanickadot/compile-time-regular-expressions master
+git subtree add --squash -P libs/meta https://github.com/skypjack/meta master
+git subtree add --squash -P libs/sqlpp11 https://github.com/rbock/sqlpp11.git main
+git subtree add --squash -P libs/cpr https://github.com/libcpr/cpr.git master
